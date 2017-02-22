@@ -1,0 +1,6 @@
+*.o
+.DS_Store
+.tags
+tags
+libhook.xcodeproj/xcuserdata
+libhook.xcodeproj/project.xcworkspace
